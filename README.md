@@ -8,7 +8,7 @@ This donation platform allows users to quickly and securely donate using PayPal.
 
 | ![Home](./home.jpg) | ![Donation](./donation.jpg) | ![Failed](./failed.jpg) |
 |--------------------------------|----------------------------------------|------------------------------------|
-| ![Success](./success.jpg) | ![Contact](./contact.jpg) | ![Partnership](./partnership.jpg) |
+| ![Success](./success.jpg) | ![Contact](./contact.jpg) | ![Partnership](./partneship.jpg) |
 |---------------------------------------|--------------------------------------|--------------------------------------|
 | ![Footer](./footer.jpg) |
 |--------------------------------------|
