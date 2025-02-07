@@ -14,10 +14,8 @@ This donation platform allows users to quickly and securely donate using PayPal.
 - **📱 Responsive Design**: Fully responsive, ensuring a seamless experience on all devices.
 
 ## 🏗️ How It Works
-
-1. **Choose Donation**: Users select or enter the amount they wish to donate.
-2. **Secure Payment**: Users proceed to PayPal to complete their donation securely.
-3. **Confirmation**: After a successful payment, users receive a confirmation of their donation.
+1. **Secure Payment**: Users proceed to PayPal to complete their donation securely.
+2. **Confirmation**: After a successful payment, users receive a confirmation of their donation.
 
 ## 📦 Setup
 
@@ -28,3 +26,27 @@ git clone https://github.com/yourusername/donation-platform.git
 cd donation-platform
 npm install
 npm start
+```
+
+## 🛠️ Built With
+
+- **HTML5** - For structuring the web content.
+- **CSS3** - For styling the interface.
+- **JavaScript** - For interactive elements.
+- **Laravel** - As the backend framework to handle server-side logic.
+- **PayPal API** - For processing payments securely.
+
+
+## 💳 Supported Payment Methods
+
+- **PayPal**: Secured payments handled through PayPal.
+
+
+## 🌍 Social Impact
+
+Your donations are impactful. They support a variety of causes and help improve lives. Thank you for your generosity and trust in our mission.
+
+## 📧 Contact
+
+For any inquiries or further assistance, please contact me at nourhanebndj@gmail.com.
+
