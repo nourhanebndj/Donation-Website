@@ -6,11 +6,11 @@ Welcome to our donation platform, where every dollar makes a difference! This pr
 
 This donation platform allows users to quickly and securely donate using PayPal. It is designed to ensure that even the smallest donations are processed smoothly, helping donors contribute to their chosen causes without hassle.
 
-| ![Home](./screenshots/home.jpg) | ![Donation](./screenshots/donation.jpg) | ![Failed](./screenshots/failed.jpg) |
+| ![Home](./home.jpg) | ![Donation](./donation.jpg) | ![Failed](./failed.jpg) |
 |--------------------------------|----------------------------------------|------------------------------------|
-| ![Success](./screenshots/success.jpg) | ![Contact](./screenshots/contact.jpg) | ![Partnership](./screenshots/partnership.jpg) |
+| ![Success](./success.jpg) | ![Contact](./contact.jpg) | ![Partnership](./partnership.jpg) |
 |---------------------------------------|--------------------------------------|--------------------------------------|
-| ![Footer](./screenshots/footer.jpg) |
+| ![Footer](./footer.jpg) |
 |--------------------------------------|
 
 ## 🛠️ Features
